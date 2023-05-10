@@ -1,0 +1,18 @@
+.remove {
+  background-color: red;
+  color: white;
+}
+
+#add {
+  background-color: green;
+  color: white;
+}
+
+.total-price-container {
+  display: flex;
+  align-items: center;
+}
+
+.total-price-label {
+  margin-right: 10px; /* Adjust the spacing as needed */
+}
